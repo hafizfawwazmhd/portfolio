@@ -1,0 +1,79 @@
+.btn, .btn-outline-light{
+
+background-color: none;
+border: #7510F7 solid 2px;
+color: #7510F7;
+padding-left: 15px;
+padding-right: 15px;
+font-weight: 600;
+border-radius: 25px;
+font-size: 17px;
+}
+
+.btn-outline-light:hover{
+
+   background-color:#7510F7 ;
+  color: white;
+    }
+
+    .avatar-bg{
+width: 220px;
+height: 220px;
+        background-color:#7510F7 ;
+        border-radius: 50%;
+    }
+
+    .intro-bg{
+
+        background-color: #7510F7;
+        animation: gradient-animation 18s ease infinite;
+      padding-top: 50px;
+      padding-bottom: 80px;
+      color: white;
+    }
+
+.footer-bg{
+  background-color: #7510F7;
+      padding-top: 50px;
+      padding-bottom: 80px;
+      color: white;
+  
+}
+
+    .text-center{
+
+        margin-top: 50px;
+    }
+
+    .box{
+      display: inline-flex;
+border: silver solid 2px;
+
+    }
+
+  
+    .skill{
+
+      font-family: "Open Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      font-variation-settings: "wdth" 100;
+    }
+
+    .skill-border{
+
+      padding-bottom: 100px;
+    }
+
+    .socmed{
+
+      gap: 50px;
+    }
+  
+    .socmed:hover{
+      background-color:#7510F7 ;
+      color: white;
+
+    }
+   
